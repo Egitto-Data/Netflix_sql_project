@@ -2,3 +2,4 @@
 
 ![Netflix logo](https://github.com/Egitto-Data/Netflix_sql_project/blob/main/logo.png)
 
+## Objective
